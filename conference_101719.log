@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.10.16)  17 OCT 2021 20:41
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.10.16)  17 OCT 2021 21:08
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -287,53 +287,53 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [2]
 
-LaTeX Warning: Reference `fig2' on page 3 undefined on input line 129.
+LaTeX Warning: Reference `fig2' on page 3 undefined on input line 130.
 
 File: fig1.png Graphic file (type bmp)
 <fig1.png>
 
-Overfull \hbox (9.26999pt too wide) in paragraph at lines 151--151
+Overfull \hbox (9.26999pt too wide) in paragraph at lines 152--152
  [][] 
  []
 
 File: fig1.png Graphic file (type bmp)
 <fig1.png>
 
-Overfull \hbox (9.26999pt too wide) in paragraph at lines 159--159
+Overfull \hbox (9.26999pt too wide) in paragraph at lines 160--160
  [][] 
  []
 
 File: fig1.png Graphic file (type bmp)
 <fig1.png>
 
-Overfull \hbox (9.26999pt too wide) in paragraph at lines 187--187
+Overfull \hbox (9.26999pt too wide) in paragraph at lines 188--188
  [][] 
  []
 
 File: fig1.png Graphic file (type bmp)
 <fig1.png>
 
-Overfull \hbox (9.26999pt too wide) in paragraph at lines 195--195
+Overfull \hbox (9.26999pt too wide) in paragraph at lines 196--196
  [][] 
  []
 
 File: fig1.png Graphic file (type bmp)
 <fig1.png>
 
-Overfull \hbox (9.26999pt too wide) in paragraph at lines 213--213
+Overfull \hbox (9.26999pt too wide) in paragraph at lines 214--214
  [][] 
  []
 
 File: fig1.png Graphic file (type bmp)
 <fig1.png>
 
-Overfull \hbox (9.26999pt too wide) in paragraph at lines 221--221
+Overfull \hbox (9.26999pt too wide) in paragraph at lines 222--222
  [][] 
  []
 
 Missing character: There is no   in font ptmr7t!
 [3]
-Overfull \hbox (4.00389pt too wide) detected at line 251
+Overfull \hbox (4.00389pt too wide) detected at line 252
 \OML/cmm/m/it/10 t[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ![][] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ![][] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ![][]
  []
 
@@ -358,7 +358,7 @@ File: fig1.png Graphic file (type bmp)
  [6]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 502.
+               Default added (so using `tbp') on input line 503.
 
 [7]
 Missing character: There is no “ in font ptmr7t!
