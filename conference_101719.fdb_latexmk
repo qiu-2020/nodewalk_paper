@@ -1,12 +1,12 @@
 # Fdb version 3
-["xdvipdfmx"] 1634476130 "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.xdv" "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.pdf" "/home/vic/Documents/code/nodewalk_paper-master/conference_101719" 1634476335
-  "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.xdv" 1634476130 60316 0bbab4a961eea34611fc2a4b3da83e55 "xelatex"
+["xdvipdfmx"] 1634476624 "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.xdv" "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.pdf" "/home/vic/Documents/code/nodewalk_paper-master/conference_101719" 1634476624
+  "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.xdv" 1634476624 60316 84c9ff5fd91e7529f9961ee350c3446c "xelatex"
   (generated)
   "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.pdf"
-["xelatex"] 1634476130 "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.tex" "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.xdv" "conference_101719" 1634476335
+["xelatex"] 1634476624 "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.tex" "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.xdv" "conference_101719" 1634476624
   "/etc/texmf/web2c/texmf.cnf" 1634374072 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.aux" 1634476130 6260 374493e30d53169f4a9c8015f9db97e1 ""
-  "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.tex" 1634476334 47706 e96c3888ae5f0594dcba0fe77e2cd68e ""
+  "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.aux" 1634476624 6260 374493e30d53169f4a9c8015f9db97e1 ""
+  "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.tex" 1634476623 47697 30a093c2a68da1de9a4afc195d68b338 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm" 1136768653 2228 e564491c42a4540b5ebb710a75ff306c ""
@@ -63,12 +63,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1634374994 4644980 811b4279492d0a95b0e68b1f42511208 ""
   "IEEEtran.cls" 1634267068 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "conference_101719.aux" 1634476130 6260 374493e30d53169f4a9c8015f9db97e1 "xelatex"
-  "conference_101719.tex" 1634476334 47706 e96c3888ae5f0594dcba0fe77e2cd68e ""
+  "conference_101719.aux" 1634476624 6260 374493e30d53169f4a9c8015f9db97e1 "xelatex"
+  "conference_101719.tex" 1634476623 47697 30a093c2a68da1de9a4afc195d68b338 ""
   "fig1.png" 1634267068 4535 3b4c70b1b9361fad686e8d234c8fe506 ""
   (generated)
+  "conference_101719.xdv"
   "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.log"
   "conference_101719.aux"
-  "conference_101719.xdv"
   "/home/vic/Documents/code/nodewalk_paper-master/conference_101719.xdv"
   "conference_101719.log"
